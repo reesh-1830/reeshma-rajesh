@@ -1,0 +1,2 @@
+command used to check the installation of git
+git --version
